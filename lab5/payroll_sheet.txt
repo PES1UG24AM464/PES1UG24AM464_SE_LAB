@@ -1,0 +1,1 @@
+{'EMP101': {'name': 'David', 'base_salary': 4850.0, 'tax_rate': 0.15}, 'EMP102': {'name': 'Elena', 'base_salary': 5100.0, 'tax_rate': 0.2}, 'EMP103': {'name': 'Frank', 'base_salary': 3800.0, 'tax_rate': 0.12}}
